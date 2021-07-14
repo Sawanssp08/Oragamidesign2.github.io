@@ -1,0 +1,106 @@
+h1{
+    color:teal;
+}
+.header{
+
+   display:flex;
+   background-color: aquamarine;
+   justify-content:center;
+}
+
+.imageContainer{
+
+    display:flex;
+    background-color: bisque;
+    justify-content: space-evenly;
+    flex-wrap:row;
+   
+    padding:15px;
+}
+
+.camel{
+
+    background-color: white;
+    border-style: groove;
+    border-color: coral;  
+    width: 150px;
+    height: 500px;
+    padding: 40px;
+   
+}
+
+.panda{
+
+    background-color: white;
+    border-style: groove;
+    border-color: coral;  
+    width: 150px;
+    height: 500px;
+    padding: 40px;
+   
+}
+
+.cicada{
+
+    background-color: white;
+    border-style: groove;
+    border-color: coral;  
+    width: 150px;
+    height: 500px;
+    padding: 40px;
+   
+}
+
+.pigeon{
+
+    background-color: white;
+    border-style: groove;
+    border-color: coral;  
+    width: 150px;
+    height: 500px;
+    padding: 40px;
+   
+}
+
+.chameleon{
+
+    background-color: white;
+    border-style: groove;
+    border-color: coral;  
+    width: 150px;
+    height: 500px;
+    padding: 40px;
+   
+}
+
+.bear{
+
+    background-color: white;
+    border-style: groove;
+    border-color: rgb(234, 112, 68);  
+    width: 150px;
+    height: 500px;
+    padding: 40px;
+   
+}
+
+body{
+    background-image:url("images/bg.jpg");
+}
+
+h2{
+
+    background-color: lightpink;
+}
+
+.link{
+    background-color: darkturquoise;
+    
+}
+
+.home{
+    align-self: center;
+    background-color: aquamarine;
+}
+
+    
